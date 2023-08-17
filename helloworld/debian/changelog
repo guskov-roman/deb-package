@@ -1,0 +1,11 @@
+helloworld (1.2.0-1) bullseye; urgency=medium
+
+  * Rewrite application in C.
+
+ -- Roman Guskov <guskov.roman@gmail.com>  Thu, 17 Aug 2023 17:00:26 +0000
+
+helloworld (1.1.0-1) bullseye; urgency=medium
+
+  * Initial project version 
+
+ -- Roman Guskov <guskov.roman@gmail.com>  Thu, 17 Aug 2023 16:12:24 +0000

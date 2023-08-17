@@ -1,0 +1,11 @@
+Source: helloworld
+Section: devel
+Priority: optional
+Maintainer: Roman Guskov <guskov.roman@gmail.com>
+Build-Depends: build-essential, debhelper (>= 10)
+
+Package: helloworld
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, vim (>= 2:8.2.2434-3+deb11u1)
+Description: helloworld package
+ This package is written in C and prints a greeting: "HELLO SBER FROM BAYERN"
